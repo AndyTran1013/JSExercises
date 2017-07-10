@@ -61,7 +61,7 @@ class numberDigits {
 
 };
 
-let x = new numberDigits(3);
+let x = new numberDigits(1);
 
 console.log('Upper Limit: ' + x.upperNum + 
 					'\nLower Limit: ' + x.lowerNum +
